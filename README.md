@@ -7,6 +7,9 @@ Bandx is a smart band demo, including watch face, launcher, music, heart rate, s
 
 This article describes how to run the example on the openvela Emulator.
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 ## Prerequisites
 
 1. Build the development environment, see [Environment Build](../Getting_Started/Set_up_the_development_environment_zh-cn.md).
