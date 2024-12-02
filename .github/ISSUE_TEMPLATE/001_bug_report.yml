@@ -35,11 +35,11 @@ body:
     validations:
       required: true
 
-  - type: markdown
-    attributes:
-      value: |
-        ### Environment
-        Please specify your environment.
+  # - type: markdown
+  #   attributes:
+  #     value: |
+  #       ### Environment
+  #       Please specify your environment.
 
   # - type: dropdown
   #   id: os
